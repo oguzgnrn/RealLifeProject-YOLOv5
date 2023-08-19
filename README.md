@@ -12,7 +12,7 @@
 
 <img src="https://github.com/oguzgnrn/RealLifeProject-YOLOv5/assets/96068121/80bfecdf-ccef-4d0d-a2d5-1e55d47facbd" alt="Project Image" width="350" height="350"> <img src="https://github.com/oguzgnrn/RealLifeProject-YOLOv5/assets/96068121/6150db0e-a927-4af1-bb92-0f1f197dd0ed" alt="Project Image" width="350" height="350">
 
-This is an unfiltered picture of Hazelnut          /     And this is the same image after the filtering step
+This is an unfiltered picture of Hazelnut          /      And this is the same image after the filtering step
 
 
 
