@@ -1,4 +1,4 @@
-# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
 """
 Export a YOLOv5 PyTorch model to other formats. TensorFlow exports authored by https://github.com/zldrobit
 
@@ -37,11 +37,6 @@ Inference:
                                  yolov5s_edgetpu.tflite     # TensorFlow Edge TPU
                                  yolov5s_paddle_model       # PaddlePaddle
 
-TensorFlow.js:
-    $ cd .. && git clone https://github.com/zldrobit/tfjs-yolov5-example.git && cd tfjs-yolov5-example
-    $ npm install
-    $ ln -s ../../yolov5/yolov5s_web_model public/yolov5s_web_model
-    $ npm start
 """
 
 import argparse
