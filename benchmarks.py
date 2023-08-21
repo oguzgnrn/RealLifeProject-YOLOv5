@@ -1,4 +1,4 @@
-# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
 """
 Run YOLOv5 benchmarks on all supported export formats
 
